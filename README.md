@@ -216,6 +216,10 @@ superstore-sql-analysis/
 │   ├── analise_narrativa.docx
 │   └── ficha_tecnica.pdf
 │
+├── data/
+│   ├── superstore_order.csv
+│   └── superstore_shipping.csv
+│
 └── README.md
 ```
 
